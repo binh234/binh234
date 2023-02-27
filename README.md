@@ -74,7 +74,7 @@ Nice to meet you, I'm Binh Le
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=binh234&layout=compact&langs_count=15&animation=true&hide_border=1&role=OWNER,COLLABORATOR" alt="binh234's Language stats" />
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=binh234&layout=compact&langs_count=10&animation=true&hide=hack,assembly&hide_border=1&role=OWNER,COLLABORATOR" alt="binh234's Language stats" />
 </a>
 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
 <img height=200 src="https://leetcard.jacoblin.cool/binhnd1111?ext=contest&animation=true&theme=wtf" alt="binh234's Leetcode stats" />
