@@ -42,8 +42,9 @@ Nice to meet you, I'm Binh Le
     <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" alt="django" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://gofiber.io/" target="_blank" rel="noreferrer"> <img src="https://gofiber.io/assets/images/logo.svg" alt="gofiber" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://github.com/gorilla/mux" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a62a5e2040257dd8787001ffa5d95964d7bc77024aa2ba3d94e64ec1e151228e/68747470733a2f2f636c6f75642d63646e2e7175657374696f6e61626c652e73657276696365732f676f72696c6c612d69636f6e2d36342e706e67" alt="gorilla-mux" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://github.com/gorilla/mux" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvmFZSjVvhCLDwb4NeLnjQT2aRKEMTzgvUamvZDzWwVSIPChgac5vM220iTP0_amgcbw&usqp=CAU" alt="gorilla-mux" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" alt="express" width="70" height="40"/> </a> &nbsp; &nbsp;
     <br />
     <br />
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
