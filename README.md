@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm Binh Le
 
-[![Github](https://img.shields.io/github/followers/binh234?label=Follow&style=social)](https://github.com/binh234)   [![Github](https://img.shields.io/github/stars/binh234?label=Stars&style=social)](https://github.com/binh234)   
+[![Github](https://img.shields.io/github/followers/binh234?label=Follow&style=social)](https://github.com/binh234)   [![Github](https://img.shields.io/github/stars/binh234?label=Stars&style=social)](https://github.com/binh234)
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=900&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+an+Amateur+Astronomer+and+interested+in+Astrophysics+and+Astrobiology)](https://git.io/typing-svg) -->
 
@@ -68,6 +68,9 @@ Nice to meet you, I'm Binh Le
 
 1. Machine Learning Engineer Intern **(Singalarity)** -->
 
+## 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=binh234)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## Top Languages Used and Leetcode Stats
 
