@@ -56,6 +56,11 @@ Nice to meet you, I'm Binh Le
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <br />
+    <br />
+    <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="70" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="70" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
 <br>
