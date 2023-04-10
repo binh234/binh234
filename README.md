@@ -11,7 +11,7 @@ Nice to meet you, I'm Binh Le
 - 🤓 Pronouns: He/Him/His
 - 👩‍💻 I'm interested in Machine Learning, Computer Vision, Language Processing, Data Science and Software Engineering
 - 📝 I'm currently learning Microsoft Azure
-- 🎯 Goal : To be a better Developer 
+- 🎯 Goal : To be a better Developer
 - 📫 How to reach me : [binhnd234@gmail.com](mailto:binhnd234@gmail.com)
 - 💌 Fun Facts : Overthinks thinking to not to overthink 🙂
 
@@ -65,7 +65,7 @@ Nice to meet you, I'm Binh Le
 
 <br>
 
-[![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html) [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.java.com/en/)  [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com)  [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com) [![MUI5](https://img.shields.io/badge/MUI_5-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/material-ui/) [![Photoshop](https://img.shields.io/badge/Photoshop-276DC3?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF6F00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![AndroidStudio](https://img.shields.io/badge/Android_Studio-276DC3?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![powerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) [![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.java.com/en/)  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com)  [![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com) [![MUI5](https://img.shields.io/badge/MUI_5-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/material-ui/) [![Photoshop](https://img.shields.io/badge/Photoshop-276DC3?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF6F00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![AndroidStudio](https://img.shields.io/badge/Android_Studio-276DC3?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 </p>
 
@@ -80,15 +80,14 @@ Nice to meet you, I'm Binh Le
 ## Top Languages Used and Leetcode Stats
 
 <!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=binh234&layout=compact&langs_count=10&animation=true&hide=hack,assembly&hide_border=1&role=OWNER,COLLABORATOR" alt="binh234's Language stats" />
-</a>
-<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-<img height=200 src="https://leetcard.jacoblin.cool/binhnd1111?ext=contest&animation=true&theme=wtf" alt="binh234's Leetcode stats" />
-</a>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=binh234&layout=compact&langs_count=10&animation=true&hide=hack,assembly&hide_border=1&role=OWNER,COLLABORATOR" alt="binh234's Language stats" />
+    </a>
+    <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+        <img height=200 src="https://leetcard.jacoblin.cool/binhnd1111?ext=contest&animation=true&theme=wtf" alt="binh234's Leetcode stats" />
+    </a>
 </div>
-<br />
 <br />
 
 ## Github Status 🏆
@@ -99,25 +98,20 @@ Nice to meet you, I'm Binh Le
 
 ![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=binh234&theme=react-dark)
 
-
 <p align="center">Wanna Know me More?</p>
 
-
 <p align="center">
-
- 
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> 
-
-<a href="https://www.facebook.com/binh.le234" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>  
-
-<a href="https://www.linkedin.com/in/binh234/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    
-<a href="https://www.kaggle.com/binh234" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>  
-
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.facebook.com/binh.le234" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>  
+    <a href="https://www.linkedin.com/in/binh234/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.kaggle.com/binh234" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    </a>  
 </p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=binh234.binh234" alt="binh234 :: Visitor's Count" /></p>
